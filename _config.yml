@@ -1,13 +1,13 @@
 # Site settings
 title:          Tech Dissect
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+description:    "My thoughts on what's new in Computer Science"
+url:            "https://an-malik.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Anurag
+  url:          
+  email:        amalik1223@gmail.com
 
 # Build settings
 markdown:       kramdown
